@@ -23,6 +23,7 @@ torch = [
 ]
 ragas = "^0.2.1"
 nltk = "^3.9.1"
+sagemaker-mlflow = "^0.1.0"
 
 
 
